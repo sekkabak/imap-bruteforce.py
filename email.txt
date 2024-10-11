@@ -1,3 +1,0 @@
-test
-guest
-admin
